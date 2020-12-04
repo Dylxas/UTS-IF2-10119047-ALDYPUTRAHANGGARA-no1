@@ -7,8 +7,14 @@ package data;
 
 /**
  *
- * @author Aldy
- */
+ * @author 
+ * NAMA     : Aldy Putra Hanggara
+ * KELAS    : PBO IF-2
+ * NIM      : 10119047
+ * DESKRIPSI PROGRAM : PROGRAM INI BERISI PROGRAM MENAMPILKAN UMUR
+ *                     DAN KETERANGANNYA
+*/
+
 public class Age {
     
     private int yearBirth;
